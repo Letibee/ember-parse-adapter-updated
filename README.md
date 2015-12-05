@@ -1,0 +1,1 @@
+# ember-parse-adapter-updated
